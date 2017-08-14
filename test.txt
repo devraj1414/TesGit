@@ -1,0 +1,2 @@
+This is a new text file
+What you lib can insert in this file.
